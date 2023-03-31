@@ -1,16 +1,4 @@
 # riverpod_image_selector
 
-A new Flutter project.
+A simple Flutter project to showcase the use of Riverpods and Hooks. The application pulls images from the UnSplash API and loads them into a gridview. When the user clicks on any image it is then downloaded to their device's gallery.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
